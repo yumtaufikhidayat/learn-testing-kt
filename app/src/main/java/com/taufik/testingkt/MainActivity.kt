@@ -44,15 +44,15 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             when {
                 TextUtils.isEmpty(length) -> {
-                    etLength.error = "Field can't be blank"
+                    etLength.error = "Field ini tidak boleh kosong"
                 }
 
                 TextUtils.isEmpty(width) -> {
-                    etWidth.error = "Field can't be blank"
+                    etWidth.error = "Field ini tidak boleh kosong"
                 }
 
                 TextUtils.isEmpty(height) -> {
-                    etHeight.error = "Field can't be blank"
+                    etHeight.error = "Field ini tidak boleh kosong"
                 }
 
                 else -> {
