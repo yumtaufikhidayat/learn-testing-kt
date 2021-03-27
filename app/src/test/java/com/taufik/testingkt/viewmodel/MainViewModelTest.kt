@@ -71,6 +71,7 @@ class MainViewModelTest {
         verify(cuboidModel).getCircumference()
         assertEquals(dummyCircumference, circumference, 0.0001)
     }
+
     @Test
     fun testMockSurfaceArea() {
         `when`(mainViewModel.getSurfaceArea()).thenReturn(dummySurfaceArea)
