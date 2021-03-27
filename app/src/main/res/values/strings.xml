@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">UnitTestingKt</string>
+    <string name="tvLength">Panjang</string>
+    <string name="tvLengthEx">Cth: 0.5</string>
+    <string name="tvWidth">Lebar</string>
+    <string name="tvWidthEx">Cth: 0.5</string>
+    <string name="tvHeight">Tinggi</string>
+    <string name="tvHeightEx">Cth: 0.5</string>
+    <string name="tvResult">Hasil</string>
+
+    <!--buttons-->
+    <string name="btnSave">Simpan</string>
+    <string name="btnCalculateVolume">Hitung Volume</string>
+    <string name="btnCalculateCircumference">Hitung Keliling</string>
+    <string name="btnCalculateSurfaceArea">Hitung Luas Area</string>
+
 </resources>
