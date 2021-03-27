@@ -1,6 +1,6 @@
-package com.taufik.unittestingkt.viewmodel
+package com.taufik.testingkt.viewmodel
 
-import com.taufik.unittestingkt.model.CuboidModel
+import com.taufik.testingkt.model.CuboidModel
 
 class MainViewModel(private val cuboidModel: CuboidModel) {
 

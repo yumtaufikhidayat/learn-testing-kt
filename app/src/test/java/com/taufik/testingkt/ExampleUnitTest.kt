@@ -1,4 +1,4 @@
-package com.taufik.unittestingkt
+package com.taufik.testingkt
 
 import org.junit.Test
 

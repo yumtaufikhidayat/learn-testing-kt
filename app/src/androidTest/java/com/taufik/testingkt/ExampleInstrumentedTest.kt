@@ -1,4 +1,4 @@
-package com.taufik.unittestingkt
+package com.taufik.testingkt
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

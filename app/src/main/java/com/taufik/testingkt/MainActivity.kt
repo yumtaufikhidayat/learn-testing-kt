@@ -1,12 +1,12 @@
-package com.taufik.unittestingkt
+package com.taufik.testingkt
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.text.TextUtils
 import android.view.View
-import com.taufik.unittestingkt.databinding.ActivityMainBinding
-import com.taufik.unittestingkt.model.CuboidModel
-import com.taufik.unittestingkt.viewmodel.MainViewModel
+import com.taufik.testingkt.databinding.ActivityMainBinding
+import com.taufik.testingkt.model.CuboidModel
+import com.taufik.testingkt.viewmodel.MainViewModel
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 

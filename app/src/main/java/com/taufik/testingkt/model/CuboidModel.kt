@@ -1,4 +1,4 @@
-package com.taufik.unittestingkt.model
+package com.taufik.testingkt.model
 
 class CuboidModel {
 

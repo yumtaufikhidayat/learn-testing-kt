@@ -1,6 +1,6 @@
-package com.taufik.unittestingkt.viewmodel
+package com.taufik.testingkt.viewmodel
 
-import com.taufik.unittestingkt.model.CuboidModel
+import com.taufik.testingkt.model.CuboidModel
 import junit.framework.Assert.assertEquals
 import org.junit.Before
 import org.junit.Test

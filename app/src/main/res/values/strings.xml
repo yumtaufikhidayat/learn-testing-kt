@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UnitTestingKt</string>
+    <string name="app_name">TestingKt</string>
     <string name="tvLength">Panjang</string>
     <string name="tvLengthEx">Cth: 0.5</string>
     <string name="tvWidth">Lebar</string>
