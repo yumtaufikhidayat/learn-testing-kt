@@ -76,6 +76,7 @@ class MainActivityEspressoTest {
 
     @Test
     fun assertEmptyInput() {
+        
         // pemeriksaan input untuk length
         onView(withId(R.id.etLength)).perform(typeText(emptyInput), closeSoftKeyboard())
 
